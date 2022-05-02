@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  main{
+    background: #2CB3F3;
+    height: 100vh;
+    padding: 10px 0 20px 0; 
+  }
+  
+  h1{
+    text-align: center;
+    margin-top: 89px;
+    
+  }
+  p{
+   text-align: center;
+   margin-top: 10px;
+   margin-bottom: 24px;
+  
+  }
+  
+  .head{
+    width: 880px;
+    height: 616px;
+    background: #fff;
+    margin: 0 auto;
+    border-radius: 100px 100px 0 0 ;
+    padding: 64px 0;
+  }
+  
+  .face{
+    width: 692px;
+    height: 487px;
+    background:#FFE1C9;
+    border-radius: 50%;
+    margin: auto;
+    position: relative;
+  }
+  
+  .right-eye{
+    width: 55px;
+    height: 55px;
+    background: #000;
+    border-radius: 50%;
+    position: absolute;
+    right: 180px;
+    top: 90px;
+  }
+  
+  .left-eye{
+     width: 55px;
+    height: 55px;
+    background: #000;
+    border-radius: 50%;
+    position: absolute;
+    left: 180px;
+    top: 90px;
+  }
+  
+  form{
+    position: relative;
+    top: 250px;
+    left: 170px;
+    
+    
+  }
+  
+  input{
+    padding: 9px;
+    border: 3px solid #000;
+    width: 350.90px;
+    height: 60.65px;
+    
+  }
+  
+  button{
+    width: 120px;
+    height: 40px;
+    background: #55A603;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 3px;
+    border: none;
+    position: absolute;
+    left: 580px;
+    bottom: 20px;
+    color: #fff;
+    text-transform: uppercase;
+  }
+  
+  
+  
